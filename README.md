@@ -1,2 +1,2 @@
-#Bootstrap-Mini-Project
+# Bootstrap-Mini-Project
 Gives an idea about the Responsiveness and Effortless design capabilities of Bootstrap.
